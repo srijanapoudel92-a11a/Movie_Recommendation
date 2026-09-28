@@ -15,7 +15,7 @@ System Evaluation
 
 The two approaches are compared using Precision@5 and Recall@5. These measures help show how relevant the recommended movies are in the test data.
 
-Prototype
+GUI Prototype
 
 The system includes a Gradio GUI where users can enter a movie title and receive five similar movie recommendations.
 
